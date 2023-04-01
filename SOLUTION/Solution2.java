@@ -1,4 +1,4 @@
-class FloyedTriangle{
+class Solution2{
     public static void main (String args[]){
         int no,k=1;
 
