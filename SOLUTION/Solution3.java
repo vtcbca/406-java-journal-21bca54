@@ -21,7 +21,7 @@ class Bowler extends Crickter{
         return this.wickets/matchPlayed;
     }
 }
-class main {
+class Solution3 {
     public static void main(String args[]){
         Batsman bm=new Batsman();
         bm.setValues("Virat Kohli",450);
