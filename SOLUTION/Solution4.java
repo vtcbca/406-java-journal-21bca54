@@ -1,4 +1,4 @@
-class OverloadMethod{
+class Solution4{
     public void display(String s1,String s2){
         System.out.println("The Concated String is:"+(s1+s2));
     }
